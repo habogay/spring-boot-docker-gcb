@@ -27,5 +27,5 @@ docker run -p 9999:8080 habogay/spring-boot-docker-gcb
 ```
 
 ## Step 5: 
-Check docker works or not on a browser: http://localhost:9999/ . 9999 is the porthat you configured.
+Check docker works or not on a browser: http://localhost:9999/ . 9999 is the port that you configured.
 
